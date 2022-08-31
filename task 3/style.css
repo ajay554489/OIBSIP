@@ -1,0 +1,72 @@
+label{
+    font-size: 18px;
+    font-family: 'Courier New',Courier,monospace;
+    font-weight: bolder;
+}
+.container{
+    position: absolute;
+    top: 43%;
+    text-align: center;
+    left: 30%;
+}
+input{
+    border-color: rgb(10,1,18);
+    box-shadow: 2px 2px 2px 2px rgb(79,95,118);
+    font-size: 15px;
+    font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida sans',Arial, sans-serif;
+}
+.button{
+    background-color: rgb(243,158,93);
+    color: #ffff;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.button:hover{
+    box-shadow: -1px -1px 9px 4px;
+    color: black;
+}
+.btn{
+    padding-top: 82px;
+}
+.cover img{
+    background-size: cover;
+}
+.fa-clipboard{
+    position: absolute;
+    left: 95%;
+    top: 4%;
+    color: black;
+    font-size: 35px;
+}
+
+.fa-clipboard:hover{
+    color: rgb(98, 160,199);
+}
+.fa-cloud-sun{
+    position: absolute;
+    left: 89%;
+    top: 4%;
+    color: black;
+    font-size: 35px;
+
+}
+
+
+.fa-cloud-sun:hover{
+    color: yellow;
+}
+
+
+.fa-ellipsis-vertical{
+    position: absolute;
+    left: 2%;
+    top: 4%;
+    color: black;
+    font-size: 38px;
+}
+.fa-ellipsis-vertical:hover{
+    color: white;
+}
